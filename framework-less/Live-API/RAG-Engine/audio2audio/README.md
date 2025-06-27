@@ -35,7 +35,7 @@ The client frontend is an Android mobile application. The basic steps are below:
 
 > 1. Install the latest version [Android Studio](https://developer.android.com/studio) that matches your machine specifications.
 
-> 2. Import (New > Import Project) 'RAGEngineLiveAPIAudip' folder as a project in Android Studio.
+> 2. Import (New > Import Project) 'RAGEngineLiveAPIAudio' folder as a project in Android Studio.
 
 > 3. Sync project (File > Sync Project with Gradle Files).
 
