@@ -1,0 +1,5 @@
+google-generativeai
+google-cloud-aiplatform
+pydantic
+uvicorn
+fastapi

@@ -1,0 +1,19 @@
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/accessibility_service_description"
+    android:accessibilityEventTypes="typeAllMask"
+    android:packageNames="com.google.android.youtube"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:notificationTimeout="100"
+    android:canRetrieveWindowContent="true"
+    android:settingsActivity="com.example.assistantapp.SettingsActivity"
+    /> <!-- End of the accessibility-service tag -->
+
+    <!-- Comments should be placed outside the tag like this -->
+    <!-- Replace com.google.android.youtube with specific packages if needed, comma-separated -->
+    <!-- e.g., android:packageNames="com.google.android.youtube,com.google.android.apps.maps" -->
+
+    <!-- Optional attribute if you need to perform swipe gestures: -->
+    <!-- android:canPerformGestures="true" -->
+
+    <!-- Optional: Specify an activity for settings if needed -->
+    <!-- android:settingsActivity="com.example.assistantapp.SettingsActivity" -->

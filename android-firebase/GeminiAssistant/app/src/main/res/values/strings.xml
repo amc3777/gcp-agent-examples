@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gemini Assistant</string>
+    <string name="accessibility_service_label">Gemini Assistant Action Service</string>
+    <string name="accessibility_service_description">Allows the Gemini Assistant to perform actions in other apps like YouTube based on your commands.</string>
+    <string name="chat_input_hint">Tap mic and speak</string>
+    <string name="listening">Listening...</string>
+    <string name="processing">Processing...</string>
+    <string name="speak_prompt">Speak your command now</string>
+    <string name="error_permission_record_audio">Microphone permission needed to receive voice commands.</string>
+    <string name="error_permission_accessibility">Please enable the Accessibility Service in Settings for actions in other apps.</string>
+    <string name="error_speech_unavailable">Speech recognition not available on this device.</string>
+    <string name="error_speech_network">Network error during speech recognition.</string>
+    <string name="error_speech_generic">Could not understand speech.</string>
+    <string name="error_gemini_request">Error communicating with Gemini.</string>
+    <string name="error_action_failed">Failed to perform action.</string>
+    <string name="error_app_not_found">Required app not found.</string>
+    <string name="status_executing_action">Executing action...</string>
+    <string name="go_to_accessibility_settings">Go to Settings</string>
+    <string name="title_activity_chat_screen">ChatScreen</string>
+    <string name="title_activity_ewrew">ewrew</string>
+</resources>
